@@ -1,4 +1,4 @@
-# a repo for music content
+# music content
 - - -
 
 * [Cozy Folzy](#)
