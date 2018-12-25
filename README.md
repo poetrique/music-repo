@@ -1,4 +1,4 @@
 # music content
 - - -
 
-* [EPs | ALBUMs | MIXTAPEs](./eps-albums-mixtapes/menu.md)
+* [EPs - ALBUMs - MIXTAPEs](./eps_albums_mixtapes/menu.md)
