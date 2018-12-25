@@ -1,4 +1,4 @@
 # music content
 - - -
 
-* [Cozy Folzy](#)
+* [EPs | ALBUMs | MIXTAPEs](./eps-albums-mixtapes/menu.md)
