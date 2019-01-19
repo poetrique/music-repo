@@ -8,10 +8,7 @@
 * [Skinny Jiggy - JIGGYLERI ft. Ziggy](./xyz/SkinnyJiggy_JIGGYLERI-ft-Ziggy.mp3)  
 * [WayTooHigh - WO WO WO (Cover) ft. Save Savage](./xyz/WayTooHigh-WoWoWo_cover_ft-Save-Savage.mp3)  
 * [Flxx - Lagos Girl ft. Makieba](./xyz/Flxx_Lagos-Girl_Feat-Makieba.mp3)  
-
-* * *
-
-* [Onile_Ziggy-ft-Folzy.mp3](./xyz/Onile_Ziggy-ft-Folzy.mp3)
+* [Ziggy - Onile ft. Folzy](./xyz/Onile_Ziggy-ft-Folzy.mp3)
 
 - - -
 * [BACK HOME](../README.md)
